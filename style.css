@@ -1,0 +1,49 @@
+/* Navbar */
+header {
+  background-color: black;  /* Mantendo o fundo preto */
+  border-bottom: 1px solid #ddd;
+  padding: 15px 5%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 28px;       /* Aumentei o tamanho do logo */
+  font-weight: bold;
+  color: white;          /* Logo branco */
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;          /* Textos brancos */
+  font-weight: 500;
+}
+
+.menu li a.active,
+.menu li a:hover {
+  color: white;        
+}
+
+
+html, body {
+    height: 100%;             /* Faz html e body ocuparem 100% da tela */
+    margin: 0;                /* Remove margens padrão */
+    padding: 0;               /* Remove padding padrão */
+}
+
+body {
+    background-image: url('img/imagem.jpg');
+    background-size: cover;      /* Faz a imagem cobrir toda a tela */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center;  /* Centraliza a imagem */
+}
