@@ -81,7 +81,7 @@ body {
 
 /* Card de login */
 .login-card {
-  background: rgba(0, 0, 0, 0.9); 
+  background: rgba(0, 0, 0, 0.8); 
   padding: 60px;
   border-radius: 8px;
   width: 350px;
@@ -129,6 +129,13 @@ body {
 .login-card button:hover {
   background-color: #b00610;
 }
+
+.login-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 
 /*parte do rodape*/
 footer {

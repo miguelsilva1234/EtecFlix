@@ -6,22 +6,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="login.css">
-    <title>Document</title>
+    <title>EtecFlix</title>
 </head>
 
 <body>
-     <?php include 'header.php';?>
+    <?php include 'header.php'; ?>
 
     <div class="container">
         <div class="login-card">
             <h1>Entrar</h1>
-            <input type="text" placeholder="Email ou número de telefone">
-            <input type="password" placeholder="Senha">
-            <button>Entrar</button>
+
+            <!-- Formulário de login -->
+            <form action="painel.php" method="post">
+                <input type="text" name="email" placeholder="Email ou número de telefone" required>
+                <input type="password" name="senha" placeholder="Senha" required>
+                <button type="submit">Entrar</button>
+            </form>
+
         </div>
     </div>
 
     <?php include 'rodape.php'; ?>
-
 </body>
 </html>
