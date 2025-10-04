@@ -11,11 +11,11 @@
 
     <main class="main-content">
         <h2>Filmes em Destaque</h2>
-        
+        <hr>
         <div class="movie-grid">
             <!-- Card 1 -->
             <div class="movie-card">
-                <div class="movie-image">Capa</div>
+                <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
                 <p>Resumo curto sobre o filme ou gênero.</p>
                 <button>Ver Review</button>
@@ -23,7 +23,7 @@
 
             <!-- Card 2 -->
             <div class="movie-card">
-                <div class="movie-image">Capa</div>
+                <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
                 <p>Descrição rápida do conteúdo.</p>
                 <button>Ver Review</button>
@@ -31,7 +31,7 @@
 
             <!-- Card 3 -->
             <div class="movie-card">
-                <div class="movie-image">Capa</div>
+                <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
                 <p>Um breve resumo do que esperar.</p>
                 <button>Ver Review</button>

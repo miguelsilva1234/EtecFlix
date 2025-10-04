@@ -131,3 +131,20 @@ footer {
     width: 100%;
 }
 /*fecho o rodape*/
+
+/*responsivo*/
+  @media (max-width: 768px) {
+    .logo {
+      font-size: 24px;
+    }
+  
+    .menu li a {
+      padding: 8px 12px;
+      font-size: 14px;
+    }
+  
+    .movie-image {
+      height: 300px;
+    }
+  }
+  
