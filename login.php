@@ -17,7 +17,7 @@
             <h1>Entrar</h1>
 
             <!-- Formulário de login -->
-            <form action="painel.php" method="post">
+            <form action="processa_login.php" method="POST">
                 <input type="text" name="email" placeholder="Email ou número de telefone" required>
                 <input type="password" name="senha" placeholder="Senha" required>
                 <button type="submit">Entrar</button>
