@@ -10,13 +10,13 @@
     <?php include 'header.php';?>
   <main class="avaliacao-container">
     <div class="filme-card">
-      <img src="img/aranha 1.jpeg" alt="Capa do Filme" class="filme-capa">
+      <img src="img/aranha 2.jpeg" alt="Capa do Filme" class="filme-capa">
       <div class="filme-info">
-        <h2>Homem-Aranha</h2>
+        <h2>Homem-Aranha 2</h2>
         <p class="sinopse">
-        No primeiro filme da trilogia, Peter Parker é um jovem tímido que ganha poderes após ser picado por uma aranha radioativa. 
-        Enquanto tenta entender sua nova responsabilidade como herói, ele enfrenta o perigoso Duende Verde. 
-        Com uma mistura de ação e emoção, o filme mostra a origem do herói e a famosa lição: “Com grandes poderes vêm grandes responsabilidades.”
+        Em Homem-Aranha 2, Peter Parker enfrenta um dos maiores desafios de sua vida: equilibrar o papel de herói com sua vida pessoal. 
+        Enquanto tenta manter seus estudos, amizades e o amor por Mary Jane, ele precisa enfrentar o brilhante e trágico Dr. Octopus. 
+        O filme aprofunda o lado humano do herói e é considerado por muitos o melhor da trilogia.
         </p>
 
         <div class="avaliacao-estrelas">

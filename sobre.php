@@ -18,14 +18,35 @@
             Além das avaliações, o site oferece um espaço para discussões e trocas de ideias, permitindo que você interaja com outros fãs, compare pontos de vista e explore diferentes gêneros.
 
             Nosso objetivo é transformar a maneira como as pessoas consomem conteúdo, incentivando o diálogo, a crítica construtiva e a paixão pela arte. Seja você um cinéfilo, um viciado em séries ou um leitor assíduo, aqui é o lugar ideal para compartilhar o que pensa e descobrir o que o mundo está comentando.</p>
-            <div class="btn-group" role="group" aria-label="Basic   mixed styles example">
-               <p>Integrantes do Projeto:</p>
-               <img src="img/53174188191_42d4c831ae_o.jpg" alt="">
-               <img src="" alt="">
-               <img src="" alt="">
-               <img src="" alt="">
-               <img src="" alt="">
+            <div class="integrantes">
+                <p>Integrantes do Projeto:</p>
+
+                <div class="integrante">
+                    <img src="img/miglis.jpg" alt="Miglis">
+                    <span>Miguel Bizerra</span>
+                </div>
+
+                <div class="integrante">
+                    <img src="img/japa.jpg" alt="Japa">
+                    <span>Matheus de Pauli</span>
+                </div>
+
+                <div class="integrante">
+                    <img src="img/pacheco.jpg" alt="Pacheco">
+                    <span>Vitor Pacheco</span>
+                </div>
+
+                <div class="integrante">
+                    <img src="img/vitao.jpg" alt="Vitão">
+                    <span>Vitor Eduardo</span>
+                </div>
+
+                <div class="integrante">
+                    <img src="img/vene.jpg" alt="Vene">
+                    <span>Vinicius de Andrade</span>
+                </div>
             </div>
+
         </div>
     </div>
 

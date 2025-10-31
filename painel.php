@@ -15,26 +15,30 @@
         <div class="movie-grid">
             <!-- Card 1 -->
             <div class="movie-card">
-                <div class="movie-image"></div>
-                <h3>Título do Filme</h3>
-                <p>Resumo curto sobre o filme ou gênero.</p>
-                <a href="filme1.php" type="button "class="active">Início</a>
+                <div class="movie-image">
+                    <img src="img/aranha 1.jpeg" alt="Homem-Aranha">
+                </div>
+                <h3>Homem-Aranha</h3>
+                <a href="filmes2.php" class="active">Avaliar</a>
             </div>
 
             <!-- Card 2 -->
             <div class="movie-card">
-                <div class="movie-image"></div>
-                <h3>Título do Filme</h3>
-                <p>Resumo curto sobre o filme ou gênero.</p>
-                <a href="filme1.php" type="button "class="active">Início</a>
+                <div class="movie-image">
+                    <img src="img/aranha 2.jpeg" alt="Homem-Aranha 2">
+                </div>
+                <h3>Homem-Aranha 2</h3>
+                <a href="filmes2.php" class="active">Avaliar</a>
             </div>
+
 
             <!-- Card 3 -->
             <div class="movie-card">
-                <div class="movie-image"></div>
-                <h3>Título do Filme</h3>
-                <p>Resumo curto sobre o filme ou gênero.</p>
-                <a href="filme1.php" type="button "class="active">Início</a>
+                <div class="movie-image">
+                    <img src="img/filme1.jpg" alt="Homem-Aranha 3">
+                </div>
+                <h3>Homem-Aranha 3</h3>
+                <a href="filmes2.php" class="active">Avaliar</a>
             </div>
         </div>
     </main>
