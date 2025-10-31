@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="sobre.css">
+    <link rel="stylesheet" href="css/sobre.css">
     <title>Document</title>
 </head>
 <body>
     
-    <?php include 'header.php';?>
+    <?php include __DIR__ . '/includes/header.php'; ?>
 
     <div class="container">
         <div class="card">
@@ -33,7 +33,7 @@
 
                 <div class="integrante">
                     <img src="img/pacheco.jpg" alt="Pacheco">
-                    <span>Vitor Pacheco</span>
+                    <span>Victor Pacheco</span>
                 </div>
 
                 <div class="integrante">
@@ -51,7 +51,7 @@
     </div>
 
 
-    <?php include 'rodape.php'; ?>
+    <?php include __DIR__ . '/includes/rodape.php'; ?>
 
 </body>
 </html>

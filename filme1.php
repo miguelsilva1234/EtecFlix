@@ -10,13 +10,13 @@
   <?php include __DIR__ . '/includes/header.php'; ?>
   <main class="avaliacao-container">
     <div class="filme-card">
-      <img src="img/capa_filme3.jpg" alt="Capa do Filme" class="filme-capa">
+      <img src="img/capa_filme1.jpeg" alt="Capa do Filme" class="filme-capa">
       <div class="filme-info">
-        <h2>Homem-Aranha 3</h2>
+        <h2>Homem-Aranha</h2>
         <p class="sinopse">
-        No encerramento da trilogia, Peter Parker precisa lidar com o simbionte que o transforma no Homem-Aranha negro, 
-        enquanto enfrenta o vingativo Homem-Areia e o novo Duende. 
-        O filme mostra como o poder e o orgulho podem corromper até o herói mais puro, encerrando a jornada de Tobey Maguire com emoção e redenção.
+        No primeiro filme da trilogia, Peter Parker é um jovem tímido que ganha poderes após ser picado por uma aranha radioativa. 
+        Enquanto tenta entender sua nova responsabilidade como herói, ele enfrenta o perigoso Duende Verde. 
+        Com uma mistura de ação e emoção, o filme mostra a origem do herói e a famosa lição: “Com grandes poderes vêm grandes responsabilidades.”
         </p>
 
         <div class="avaliacao-estrelas">

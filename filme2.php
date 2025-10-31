@@ -10,13 +10,13 @@
   <?php include __DIR__ . '/includes/header.php'; ?>
   <main class="avaliacao-container">
     <div class="filme-card">
-      <img src="img/capa_filme3.jpg" alt="Capa do Filme" class="filme-capa">
+      <img src="img/capa_filme2.jpeg" alt="Capa do Filme" class="filme-capa">
       <div class="filme-info">
-        <h2>Homem-Aranha 3</h2>
+        <h2>Homem-Aranha 2</h2>
         <p class="sinopse">
-        No encerramento da trilogia, Peter Parker precisa lidar com o simbionte que o transforma no Homem-Aranha negro, 
-        enquanto enfrenta o vingativo Homem-Areia e o novo Duende. 
-        O filme mostra como o poder e o orgulho podem corromper até o herói mais puro, encerrando a jornada de Tobey Maguire com emoção e redenção.
+        Em Homem-Aranha 2, Peter Parker enfrenta um dos maiores desafios de sua vida: equilibrar o papel de herói com sua vida pessoal. 
+        Enquanto tenta manter seus estudos, amizades e o amor por Mary Jane, ele precisa enfrentar o brilhante e trágico Dr. Octopus. 
+        O filme aprofunda o lado humano do herói e é considerado por muitos o melhor da trilogia.
         </p>
 
         <div class="avaliacao-estrelas">
