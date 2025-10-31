@@ -18,23 +18,23 @@
                 <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
                 <p>Resumo curto sobre o filme ou gênero.</p>
-                <button>Ver Review</button>
+                <a href="filme1.php" type="button "class="active">Início</a>
             </div>
 
             <!-- Card 2 -->
             <div class="movie-card">
                 <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
-                <p>Descrição rápida do conteúdo.</p>
-                <button>Ver Review</button>
+                <p>Resumo curto sobre o filme ou gênero.</p>
+                <a href="filme1.php" type="button "class="active">Início</a>
             </div>
 
             <!-- Card 3 -->
             <div class="movie-card">
                 <div class="movie-image"></div>
                 <h3>Título do Filme</h3>
-                <p>Um breve resumo do que esperar.</p>
-                <button>Ver Review</button>
+                <p>Resumo curto sobre o filme ou gênero.</p>
+                <a href="filme1.php" type="button "class="active">Início</a>
             </div>
         </div>
     </main>
